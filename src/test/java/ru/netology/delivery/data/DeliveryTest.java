@@ -1,4 +1,4 @@
-package ru.netology.delivery.test;
+package ru.netology.delivery.data;
 
 import com.codeborne.selenide.Condition;
 //import org.jsoup.select.Evaluator;
